@@ -1,0 +1,5 @@
+<decorators>
+    <excludes>
+        <pattern>/log/*</pattern>
+    </excludes>
+</decorators>

@@ -1,0 +1,13 @@
+<plugin name='atmosphere-meteor' version='0.7.0' grailsVersion='2.1 &gt; *'>
+  <author>Ken Siprell</author>
+  <authorEmail>ken.siprell@gmail.com</authorEmail>
+  <title>Atmosphere Meteor Plugin</title>
+  <description>
+This plugin incorporates the [Atmosphere Framework|https://github.com/Atmosphere/atmosphere], which includes client and server-side components for building asynchronous web applications.
+</description>
+  <documentation>https://github.com/kensiprell/grails-atmosphere-meteor/blob/master/README.md</documentation>
+  <type>AtmosphereMeteorGrailsPlugin</type>
+  <resources>
+    <resource>spring.resources</resource>
+  </resources>
+</plugin>
